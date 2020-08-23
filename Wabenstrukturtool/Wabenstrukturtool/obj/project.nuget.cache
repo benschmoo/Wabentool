@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "csD12qWWSaitvCy6l2iYD/2EXAaqRJHNJycZuRHpluaik+bJGIdR4FilkNp/YqHjmizMsEwIqWXMkf3mAJgGsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bened\\source\\repos\\Wabenstrukturtool\\Wabenstrukturtool\\Wabenstrukturtool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bened\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bened\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
